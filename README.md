@@ -1,6 +1,8 @@
 # Django Blog
 <p>Developed a Blog application with Python and Django which allows users to create, edit, and delete posts and update,delete Profile and User Password. The homepage will list all blog posts, and there will be a dedicated detail page for each individual post.</p>
 
+## Live Demo : [Link to Google](https://www.google.com)
+
 ## Features
 * User registration
 * User Login and logout
